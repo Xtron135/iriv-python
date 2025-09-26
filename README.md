@@ -1,1 +1,1 @@
-# iriv-python
+# IRIV PiControl Basic Python Program
